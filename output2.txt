@@ -1,0 +1,21 @@
+the sum of -2147483647 and -2 is 2147483647
+all these things added together make 169.240006
+Size of x is 4 and the address of x is 0xbfdb574c
+Size of y is 4 and the address of y is 0xbfdb5748
+Size of total is 4 and the address of total is 0xbfdb5744
+Size of c is 1 and the address of c is 0xbfdb5743
+Size of ul is 4 and the address of ul is 0xbfdb573c
+Size of ui is 4 and the address of ui is 0xbfdb5738
+Size of ull is 8 and the address of ull is 0xbfdb5730
+Size of us is 2 and the address of us is 0xbfdb572e
+Size of sl is 4 and the address of sl is 0xbfdb5728
+Size of si is 4 and the address of si is 0xbfdb5724
+Size of sll is 8 and the address of sll is 0xbfdb5718
+Size of ss is 2 and the address of ss is 0xbfdb5716
+Size of l is 4 and the address of l is 0xbfdb5710
+Size of i is 4 and the address of i is 0xbfdb570c
+Size of ll is 8 and the address of ll is 0xbfdb5700
+Size of s is 2 and the address of s is 0xbfdb56fe
+Size of f is 4 and the address of f is 0xbfdb56f8
+Size of d is 8 and the address of d is 0xbfdb56f0
+Size of grandTotal is 8 and the address of grandTotal is 0xbfdb56e8
