@@ -19,3 +19,5 @@ Size of s is 2 and the address of s is 0xbfdb56fe
 Size of f is 4 and the address of f is 0xbfdb56f8
 Size of d is 8 and the address of d is 0xbfdb56f0
 Size of grandTotal is 8 and the address of grandTotal is 0xbfdb56e8
+
+test
