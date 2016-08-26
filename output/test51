@@ -1,0 +1,13 @@
+
+Please enter dice values:
+> 
+Your dice values are: 3 1 4 5 2
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Please enter dice values:
+> 
+Incorrect Input Format.

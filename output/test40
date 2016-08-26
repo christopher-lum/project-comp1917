@@ -1,0 +1,16 @@
+
+Please enter dice values:
+> 
+Your dice values are: 1 1 1 2 2
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Your score options are:
+ 1 -> Three of a Kind (7 points)
+ 2 -> Full House (25 points)
+ 3 -> Chance (7 points)
+> 
+Your score is: 25 points

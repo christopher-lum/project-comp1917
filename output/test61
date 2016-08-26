@@ -1,0 +1,24 @@
+
+Please enter dice values:
+> 
+Your dice values are: 1 3 1 4 3
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Please enter dice values:
+> 
+Your dice values are: 2 2 2 3 6
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Your score options are:
+ 1 -> Three of a Kind (15 points)
+ 2 -> Chance (15 points)
+> 
+Your score is: 15 points

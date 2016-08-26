@@ -1,0 +1,24 @@
+
+Please enter dice values:
+> 
+Your dice values are: 3 4 2 5 5
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Please enter dice to reroll (1 - 5):
+> 
+Please enter 3 values:
+> 
+Your dice values are: 3 1 2 2 4
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Please enter dice values:
+> 
+Incorrect Number of Values.

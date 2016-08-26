@@ -1,0 +1,28 @@
+
+Please enter dice values:
+> 
+Your dice values are: 1 5 2 4 5
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Please enter dice to reroll (1 - 5):
+> 
+Please enter 3 values:
+> 
+Your dice values are: 5 5 5 5 5
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Your score options are:
+ 1 -> Three of a Kind (25 points)
+ 2 -> Four of a Kind (25 points)
+ 3 -> Yahtzee (50 points)
+ 4 -> Chance (25 points)
+> 
+Your score is: 25 points
