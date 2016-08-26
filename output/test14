@@ -1,0 +1,16 @@
+
+Please enter dice values:
+> 
+Your dice values are: 6 5 4 3 2
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Your score options are:
+ 1 -> Small Straight (30 points)
+ 2 -> Straight (40 points)
+ 3 -> Chance (20 points)
+> 
+Invalid Choice.

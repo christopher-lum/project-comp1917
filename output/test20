@@ -1,0 +1,16 @@
+
+Please enter dice values:
+> 
+Your dice values are: 4 4 1 4 4
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Your score options are:
+ 1 -> Three of a Kind (17 points)
+ 2 -> Four of a Kind (17 points)
+ 3 -> Chance (17 points)
+> 
+Your score is: 17 points

@@ -1,0 +1,13 @@
+
+Please enter dice values:
+> 
+Your dice values are: 3 2 4 1 5
+
+Please choose:
+ 1 -> Reroll some dice
+ 2 -> Reroll all dice
+ 3 -> Keep dice
+> 
+Please enter dice to reroll (1 - 5):
+> 
+Dice Number Out of Range.
